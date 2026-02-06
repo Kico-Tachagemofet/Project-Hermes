@@ -128,8 +128,8 @@ pyinstaller SpiritTool.spec --noconfirm
 
 MIT
 
-使用示例：
-# 沟通记录
+
+# 使用示例：沟通记录
 
 **导出时间**: 2026-02-06 17:17:09  
 **沟通对象**: Hermes  
